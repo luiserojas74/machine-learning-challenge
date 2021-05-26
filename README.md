@@ -1,3 +1,23 @@
+# Analyzing Exoplanets
+
+<!-- <img src="https://i.ibb.co/Lx4WYZ8/citibike-logo.jpg" width="300" height="120"> -->
+
+## About
+
+Created by: Luis E. Rojas
+
+   - This is the project I developed for unit 21 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
+   - I created a Tableau Workbook in order to analyze NYC's Citi Bike program during pandemics, as well as help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Here is a snapshot of the workbook: 
+
+<!-- <img src="https://i.ibb.co/NNqZyCM/snapshot.png" width="600" height="400"> -->
+
+
+<!-- - ### The workbook's link for this project is [here](https://public.tableau.com/views/CitiBikeAnalytics_16208735130000/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link). -->
+- The main tool I used on this project is [sklearn](https://scikit-learn.org/).
+
+
+## **_The original text of the homework assignment:_** 
 # Machine Learning Homework - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
