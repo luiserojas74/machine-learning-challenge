@@ -11,7 +11,7 @@ Created by: Luis E. Rojas
    - It seems that the Random Forest model worked a little better than the Deep Learning model, so it ends up being the best out of four models tested: K Nearest Neighbors, Random Forest, Support Vector Machine and Deep Learning.
    - Here is the concluding chart: 
 
-<img src="Images/models-comparison.jpg" width="800" height="400">
+<img src="Images/models-comparison.jpg" width="800" height="800">
 
 - The main tool I used on this project is [sklearn](https://scikit-learn.org/).
 
