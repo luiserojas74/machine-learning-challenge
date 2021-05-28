@@ -1,6 +1,6 @@
 # Analyzing Exoplanets
 
-<img src="Images/exoplanets_by_jaysimons-short.jpg" width="200" height="500">
+<img src="Images/exoplanets_by_jaysimons-short.jpg" width="800" height="800">
 
 ## About
 
