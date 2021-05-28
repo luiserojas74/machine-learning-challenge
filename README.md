@@ -8,6 +8,7 @@ Created by: Luis E. Rojas
 
    - This is the project I developed for unit 21 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
    - I created Machine Learning models capable of classifying candidate exoplanets from the raw dataset, as well as explanations to help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - GridSearchCV model to hyper tune the model parameters has to be run carefully. In this research, Random Forest and Deep Learning were time consuming.
    - It seems that the Random Forest model worked a little better than the Deep Learning model, so it ends up being the best out of four models tested: K Nearest Neighbors, Random Forest, Support Vector Machine and Deep Learning.
    - Here is the concluding chart: 
 
