@@ -1,6 +1,6 @@
 # Analyzing Exoplanets
 
-<img src="Images/exoplanets_by_jaysimons-short" width="300" height="120">
+<img src="Images/exoplanets_by_jaysimons-short.jpg" width="300" height="120">
 
 ## About
 
@@ -10,10 +10,8 @@ Created by: Luis E. Rojas
    - I created Machine Learning models capable of classifying candidate exoplanets from the raw dataset, as well as explanations to help readers understand my findings. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is the concluding chart: 
 
-<img src="Images/models-comparison.jpg" width="600" height="400">
+<img src="Images/models-comparison.jpg" width="800" height="400">
 
-
-- ### The workbook's link for this project is [here](https://public.tableau.com/views/CitiBikeAnalytics_16208735130000/CitiBikeStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
 - The main tool I used on this project is [sklearn](https://scikit-learn.org/).
 
 
